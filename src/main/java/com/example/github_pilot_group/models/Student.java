@@ -1,4 +1,4 @@
-package models;
+package com.example.github_pilot_group.models;
 
 import jakarta.persistence.*;
 import lombok.Data;
